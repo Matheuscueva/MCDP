@@ -1,0 +1,136 @@
+body{
+	background: black;
+}
+#Header{
+	text-align: center;
+	font-family: sans-serif;
+	color: black;
+	background: white;
+	font-size: 150pt;
+	font-weight: bold;
+	padding: 40px;
+	margin: auto;
+}
+
+#grid{
+	padding: 20px;
+	display: grid;
+	gap: 3rem;
+	grid-template-columns: 1fr;
+}
+
+#bio{
+	font-family: sans-serif;
+	color: white;
+	font-size: 25pt;
+	padding: 20px;
+	width: 650px;
+	margin: auto;
+	text-align: left;
+}
+
+#Pro1{
+	font-family: sans-serif;
+	color: white;
+	font-size: 50pt;
+	font-weight: bold;
+	padding: 10px;
+	width: 650px;
+	margin: auto;
+}
+
+#Pro1bio{
+	font-family: sans-serif;
+	color: white;
+	font-size: 25pt;
+	padding: 10px;
+	width: 650px;
+	margin: auto;
+}
+
+#NewtonsCradle{
+	width: 650px;
+	margin: auto;
+	opacity: 0.3;
+}
+#NewtonsCradle:hover{
+	opacity: 1.0;
+}
+#Triangles{
+	width: 650px;
+	margin: auto;
+	opacity: 0.3;
+}
+#Triangles:hover{
+	opacity: 1.0;
+}
+#RedvsBlue{
+	width: 650px;
+	margin: auto;
+	opacity: 0.3;
+}
+#RedvsBlue:hover{
+	opacity: 1.0;
+}
+#Pro2{
+	font-family: sans-serif;
+	color: white;
+	font-size: 50pt;
+	font-weight: bold;
+	padding: 10px;
+	width: 650px;
+	margin: auto;
+}
+
+#Pro2bio{
+	font-family: sans-serif;
+	color: white;
+	font-size: 25pt;
+	padding: 10px;
+	width: 650px;
+	margin: auto;
+}
+
+#Vinland{
+	width: 650px;
+	margin: auto;
+	opacity: 0.3;
+}
+#Vinland:hover{
+	opacity: 1.0;
+}
+#Oscar{
+	width: 650px;
+	margin: auto;
+	opacity: 0.3;
+}
+#Oscar:hover{
+	opacity: 1.0;
+}
+
+#Pro3{
+	font-family: sans-serif;
+	color: white;
+	font-size: 50pt;
+	font-weight: bold;
+	padding: 10px;
+	width: 650px;
+	margin: auto;
+}
+#Pro3bio{
+	font-family: sans-serif;
+	color: white;
+	font-size: 25pt;
+	padding: 10px;
+	width: 650px;
+	margin: auto;
+}
+
+#NJDevils{
+	width: 650px;
+	margin: auto;
+	opacity: 0.3;
+}
+#NJDevils:hover{
+	opacity: 1.0;
+}

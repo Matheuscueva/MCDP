@@ -1,0 +1,65 @@
+body{
+	background: black;
+}
+#Header{
+	text-align: center;
+	font-family: sans-serif;
+	color: black;
+	background: white;
+	font-size: 200pt;
+	font-weight: bold;
+	padding: 40px;
+	margin: auto;
+}
+
+#grid{
+	padding: 20px;
+	display: grid;
+	gap: 5rem;
+	grid-template-columns: 1fr;
+}
+
+#bio{
+	text-align: left;
+	font-family: sans-serif;
+	color: white;
+	font-size: 25pt;
+	padding: 10px;
+	width: 675px;
+	margin: auto;
+}
+
+#B{
+	width: 600px;
+	margin: auto;
+	opacity: 0.3;
+}
+#B:hover{
+	opacity: 1.0;
+}
+
+#n{
+	width: 600px;
+	margin: auto;
+	opacity: 0.3;
+}
+#n:hover{
+	opacity: 1.0;
+}
+
+#a{
+	width: 600px;
+	margin: auto;
+	opacity: 0.3;
+}
+#a:hover{
+	opacity: 1.0;
+}
+#R{
+	width: 600px;
+	margin: auto;
+	opacity: 0.3;
+}
+#R:hover{
+	opacity: 1.0;
+}

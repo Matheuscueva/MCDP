@@ -1,0 +1,220 @@
+body{
+	background: black;
+}
+
+#Header{
+	text-align: left;
+	font-family: sans-serif;
+	color: black;
+	background: white;
+	font-size: 150pt;
+	font-weight: bold;
+	padding: 40px;
+	margin: auto;
+}
+
+#grid{
+	padding: 5px;
+	display: grid;
+	gap: 2rem;
+	grid-template-columns: 1fr 1fr 1fr;
+}
+
+#bio{
+	text-align: left;
+	font-family: sans-serif;
+	color: white;
+	font-size: 50pt;
+	font-weight: bold;
+	padding: 10px;
+	max-width: 500px;
+	margin-top: 0px;
+}
+
+#bio2{
+	text-align: left;
+	font-family: sans-serif;
+	color: white;
+	font-size: 20pt;
+	padding: 10px;
+	max-width: 500px;
+	margin-top: 0px;
+}
+
+.scroll-container{
+	cursor: e-resize;
+	overflow: auto;
+	white-space: nowrap;
+	padding: 20px;
+	width: 650px;
+	background-color:black;
+	opacity: 0.3;
+}
+.scroll-container:hover{
+	opacity: 1.0;
+}
+
+#FC1{
+	width: 650px;
+}
+#FC2{
+	width: 650px;
+}
+#FC3{
+	width: 650px;
+}
+#FC4{
+	width: 650px;
+}
+#FC5{
+	width: 650px;
+}
+#FC6{
+	width: 650px;
+}
+#FC7{
+	width: 650px;
+}
+#FC8{
+	width: 650px;
+}
+#FC9{
+	width: 650px;
+}
+
+#Pro2{
+	text-align:left;
+	font-family: sans-serif;
+	color: white;
+	font-size: 50pt;
+	font-weight: bold;
+	padding: 10px;
+	max-width: 500px;
+	margin-top: 0px;
+}
+
+#IM{
+	width: 650px;
+	margin: auto;
+	opacity: 0.3;
+}
+#IM:hover{
+	opacity: 1.0;
+}
+
+#IM2{
+	text-align: left;
+	font-family: sans-serif;
+	color: white;
+	font-size: 20pt;
+	padding: 10px;
+	max-width: 500px;
+	margin-top: 0px;
+}
+
+#BookCover1{
+	text-align: left;
+	font-family: sans-serif;
+	color: white;
+	font-size: 50pt;
+	font-weight: bold;
+	padding: 10px;
+	max-width: 500px;
+	margin-top: 0px;
+}
+
+#BC1{
+	width: 650px;
+}
+#BC2{
+	width: 650px;
+}
+#BC3{
+	width: 650px;
+}
+#BC4{
+	width: 650px;
+}
+#BC5{
+	width: 650px;
+}
+#BC6{
+	width: 650px;
+}
+#BC7{
+	width: 650px;
+}
+#BC8{
+	width: 650px;
+}
+#BC9{
+	width: 650px;
+}
+#BC10{
+	width: 650px;
+}
+#BC11{
+	width: 650px;
+}
+#BC12{
+	width: 650px;
+}
+#BC13{
+	width: 650px;
+}
+#BC14{
+	width: 650px;
+}
+#BC15{
+	width: 650px;
+}
+
+#BookCover2{
+	text-align: left;
+	font-family: sans-serif;
+	color: white;
+	font-size: 20pt;
+	padding: 10px;
+	max-width: 500px;
+	margin-top: 0px;
+}
+
+#Pro4{
+	text-align: left;
+	font-family: sans-serif;
+	color: white;
+	font-size: 50pt;
+	font-weight: bold;
+	padding: 10px;
+	max-width: 500px;
+	margin-top: 0px;
+}
+
+#Currency10F{
+	width: 650px;
+}
+#Currency10B{
+	width: 650px;
+}
+#Currency20F{
+	width: 650px;
+}
+#Currency20B{
+	width: 650px;
+}
+#Currency50F{
+	width: 650px;
+}
+#Currency50B{
+	width: 650px;
+}
+
+#CRC{
+	text-align: left;
+	font-family: sans-serif;
+	color: white;
+	font-size: 20pt;
+	padding: 10px;
+	max-width: 500px;
+	margin-top: 0px;
+}

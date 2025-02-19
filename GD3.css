@@ -1,0 +1,366 @@
+body{
+	background: black;
+}
+
+#Header{
+	text-align: center;
+	font-family: sans-serif;
+	color: black;
+	background: white;
+	font-size: 200pt;
+	font-weight: bold;
+	padding: 40px;
+	margin: auto;
+}
+
+#grid{
+	padding: 20px;
+	display: grid;
+	gap: 3rem;
+	grid-template-columns: 1fr;
+}
+
+.scroll-container {
+	cursor: e-resize;
+	overflow: auto;
+	white-space: nowrap;
+	padding: 10px;
+	width: 630px;
+	background-color: black;
+	margin: auto;
+	opacity: 0.3;
+}
+.scroll-container:hover{
+	opacity: 1.0;
+}
+
+#bio{
+	font-family: sans-serif;
+	color: white;
+	font-size: 25pt;
+	padding: 20px;
+	width: 650px;
+	margin: auto;
+	text-align: left;
+}
+
+#creativebrief{
+	font-family: sans-serif;
+	color: white;
+	font-size: 50pt;
+	font-weight: bold;
+	padding: 10px;
+	width: 650px;
+	margin: auto;
+}
+
+#creative1{
+	width: 650px;
+}
+#creative2{
+	width: 650px;
+}
+#creative3{
+	width: 650px;
+}
+#creative4{
+	width: 650px;
+}
+#creative5{
+	width: 650px;
+}
+#creative6{
+	width: 650px;
+}
+#creative7{
+	width: 650px;
+}
+#creative8{
+	width: 650px;
+}
+#creative9{
+	width: 650px;
+}
+#creative10{
+	width: 650px;
+}
+#creative11{
+	width: 650px;
+}
+
+#identitysystem{
+	font-family: sans-serif;
+	color: white;
+	font-size: 50pt;
+	font-weight: bold;
+	padding: 10px;
+	width: 650px;
+	margin: auto;
+}
+
+#IS1{
+	width: 650px;
+}
+#IS2{
+	width: 650px;
+}
+#IS3{
+	width: 650px;
+}
+#IS4{
+	width: 650px;
+}
+#IS5{
+	width: 650px;
+}
+#IS6{
+	width: 650px;
+}
+#IS7{
+	width: 650px;
+}
+#IS8{
+	width: 650px;
+}
+#IS9{
+	width: 650px;
+}
+#IS10{
+	width: 650px;
+}
+#IS11{
+	width: 650px;
+}
+#IS12{
+	width: 650px;
+}
+#IS13{
+	width: 650px;
+}
+#IS14{
+	width: 650px;
+}
+#IS15{
+	width: 650px;
+}
+#IS16{
+	width: 650px;
+}
+#IS17{
+	width: 650px;
+}
+#IS18{
+	width: 650px;
+}
+
+#Pro2{
+	font-family: sans-serif;
+	color: white;
+	font-size: 50pt;
+	font-weight: bold;
+	padding: 10px;
+	width: 650px;
+	margin: auto;
+}
+
+#scroll-container2{
+	width: 580px;
+}
+
+#PosterFront{
+	width: 600px;
+	margin: auto;
+}
+#PosterBack{
+	width: 600px;
+	margin: auto;
+}
+
+#busmockup{
+	width: 630px;
+	margin: auto;
+}
+
+#scroll-container3{
+	width: 580px;
+}
+
+#mockup1{
+	width: 600px;
+	height: 400px;
+}
+#mockup2{
+	width: 600px;
+	height: 400px;
+}
+#mockup4{
+	width: 600px;
+	height: 400px;
+}
+#mockup5{
+	width: 600px;
+	height: 400px;
+}
+
+#Pro3{
+	font-family: sans-serif;
+	color: white;
+	font-size: 50pt;
+	padding: 10px;
+	width: 650px;
+	font-weight: bold;
+	margin: auto;
+}
+#Merchbio{
+	font-family: sans-serif;
+	color: white;
+	font-size: 25pt;
+	padding: 10px;
+	width: 650px;
+	margin: auto;
+}
+#merchr1{
+	width: 650px;
+}
+#merchr2{
+	width: 650px;
+}
+#merchr3{
+	width: 650px;
+}
+#merchr4{
+	width: 650px;
+}
+#merch1{
+	width: 650px;
+}
+#merch2{
+	width: 650px;
+}
+#merch3{
+	width: 650px;
+}
+#merch4{
+	width: 650px;
+}
+#merch5{
+	width: 650px;
+}
+
+
+#GGFinal1{
+	width: 650px;
+}
+#GGFinal2{
+	width: 650px;
+}
+#GGFinal3{
+	width: 650px;
+}
+#GGFinal4{
+	width: 650px;
+}
+#GGFinal5{
+	width: 650px;
+}
+#GGFinal6{
+	width: 650px;
+}
+#GGFinal7{
+	width: 650px;
+}
+#GGFinal8{
+	width: 650px;
+}
+#GGFinal9{
+	width: 650px;
+}
+#GGFinal10{
+	width: 650px;
+}
+#GGFinal11{
+	width: 650px;
+}
+#GGFinal12{
+	width: 650px;
+}
+#GGFinal13{
+	width: 650px;
+}
+#GGFinal14{
+	width: 650px;
+}
+#GGFinal15{
+	width: 650px;
+}
+#GGFinal16{
+	width: 650px;
+}
+#GGFinal17{
+	width: 650px;
+}
+#GGFinal18{
+	width: 650px;
+}
+#GGFinal19{
+	width: 650px;
+}
+#GGFinal20{
+	width: 650px;
+}
+#GGFinal21{
+	width: 650px;
+}
+#GGFinal22{
+	width: 650px;
+}
+#GGFinal23{
+	width: 650px;
+}
+#GGFinal24{
+	width: 650px;
+}
+#GGFinal25{
+	width: 650px;
+}
+#GGFinal26{
+	width: 650px;
+}
+#GGFinal27{
+	width: 650px;
+}
+#GGFinal28{
+	width: 650px;
+}
+#GGFinal29{
+	width: 650px;
+}
+#GGFinal30{
+	width: 650px;
+}
+
+#Pro4{
+	font-family: sans-serif;
+	color: white;
+	font-size: 50pt;
+	padding: 10px;
+	width: 650px;
+	font-weight: bold;
+	margin: auto;
+}
+#vidbio{
+	font-family: sans-serif;
+	color: white;
+	font-size: 25pt;
+	padding: 10px;
+	width: 650px;
+	margin: auto;
+}
+#Mnemonic{
+	width: 650px;
+	margin: auto;
+}
+#Stream{
+	width: 650px;
+	margin: auto;
+}

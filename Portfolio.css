@@ -1,0 +1,83 @@
+body{
+	background: black;
+}
+
+#grid{
+	padding: 20px;
+	display: grid;
+	gap: 5rem;
+	grid-template-columns: 1fr 1fr 1fr;
+}
+
+#name{
+	color: black;
+	background: white;
+	width: 100%;
+	padding: 20px;
+	text-align: left;
+	font-family: sans-serif;
+	font-size: 75pt;
+	font-weight: bold;
+}
+
+#bio{
+	text-align: left;
+	font-family: sans-serif;
+	color: white;
+	font-size: 25pt;
+	padding: 0px;
+}
+
+#contact{
+	text-align: left;
+	font-family: sans-serif;
+	color: white;
+	font-size: 25pt;
+	padding: 0px;
+	max-width: 270px;
+}
+
+#GD1{
+	text-align: left;
+	font-family: sans-serif;
+	color: white;
+	font-size: 30pt;
+	padding: 20px;
+	font-weight: bold;
+}
+
+#GD2{
+	text-align: left;
+	font-family: sans-serif;
+	color: white;
+	font-size: 30pt;
+	padding: 20px;
+	font-weight: bold;
+}
+
+#GD3{
+	text-align: left;
+	font-family: sans-serif;
+	color: white;
+	font-size: 30pt;
+	padding: 20px;
+	font-weight: bold;
+}
+
+#MD{
+	text-align: left;
+	font-family: sans-serif;
+	color: white;
+	font-size: 30pt;
+	padding: 20px;
+	font-weight: bold;
+}
+
+#Interactive{
+	text-align: left;
+	font-family: sans-serif;
+	color: white;
+	font-size: 30pt;
+	padding: 20px;
+	font-weight: bold; 
+}
