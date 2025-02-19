@@ -7,14 +7,14 @@ body{
 	font-family: sans-serif;
 	color: black;
 	background: white;
-	font-size: 200pt;
+	font-size: 50pt;
 	font-weight: bold;
-	padding: 40px;
+	padding: 30px;
 	margin: auto;
 }
 
 #grid{
-	padding: 20px;
+	padding: 10px;
 	display: grid;
 	gap: 3rem;
 	grid-template-columns: 1fr;
@@ -25,7 +25,7 @@ body{
 	overflow: auto;
 	white-space: nowrap;
 	padding: 10px;
-	width: 630px;
+	width: 400px;
 	background-color: black;
 	margin: auto;
 	opacity: 0.3;
@@ -37,9 +37,9 @@ body{
 #bio{
 	font-family: sans-serif;
 	color: white;
-	font-size: 25pt;
-	padding: 20px;
-	width: 650px;
+	font-size: 15pt;
+	padding: 10px;
+	width: 400px;
 	margin: auto;
 	text-align: left;
 }
@@ -47,320 +47,320 @@ body{
 #creativebrief{
 	font-family: sans-serif;
 	color: white;
-	font-size: 50pt;
+	font-size: 20pt;
 	font-weight: bold;
 	padding: 10px;
-	width: 650px;
+	width: 400px;
 	margin: auto;
 }
 
 #creative1{
-	width: 650px;
+	width: 400px;
 }
 #creative2{
-	width: 650px;
+	width: 400px;
 }
 #creative3{
-	width: 650px;
+	width: 400px;
 }
 #creative4{
-	width: 650px;
+	width: 400px;
 }
 #creative5{
-	width: 650px;
+	width: 400px;
 }
 #creative6{
-	width: 650px;
+	width: 400px;
 }
 #creative7{
-	width: 650px;
+	width: 400px;
 }
 #creative8{
-	width: 650px;
+	width: 400px;
 }
 #creative9{
-	width: 650px;
+	width: 400px;
 }
 #creative10{
-	width: 650px;
+	width: 400px;
 }
 #creative11{
-	width: 650px;
+	width: 400px;
 }
 
 #identitysystem{
 	font-family: sans-serif;
 	color: white;
-	font-size: 50pt;
+	font-size: 20pt;
 	font-weight: bold;
 	padding: 10px;
-	width: 650px;
+	width: 400px;
 	margin: auto;
 }
 
 #IS1{
-	width: 650px;
+	width: 400px;
 }
 #IS2{
-	width: 650px;
+	width: 400px;
 }
 #IS3{
-	width: 650px;
+	width: 400px;
 }
 #IS4{
-	width: 650px;
+	width: 400px;
 }
 #IS5{
-	width: 650px;
+	width: 400px;
 }
 #IS6{
-	width: 650px;
+	width: 400px;
 }
 #IS7{
-	width: 650px;
+	width: 400px;
 }
 #IS8{
-	width: 650px;
+	width: 400px;
 }
 #IS9{
-	width: 650px;
+	width: 400px;
 }
 #IS10{
-	width: 650px;
+	width: 400px;
 }
 #IS11{
-	width: 650px;
+	width: 400px;
 }
 #IS12{
-	width: 650px;
+	width: 400px;
 }
 #IS13{
-	width: 650px;
+	width: 400px;
 }
 #IS14{
-	width: 650px;
+	width: 400px;
 }
 #IS15{
-	width: 650px;
+	width: 400px;
 }
 #IS16{
-	width: 650px;
+	width: 400px;
 }
 #IS17{
-	width: 650px;
+	width: 400px;
 }
 #IS18{
-	width: 650px;
+	width: 400px;
 }
 
 #Pro2{
 	font-family: sans-serif;
 	color: white;
-	font-size: 50pt;
+	font-size: 20pt;
 	font-weight: bold;
 	padding: 10px;
-	width: 650px;
+	width: 400px;
 	margin: auto;
 }
 
 #scroll-container2{
-	width: 580px;
+	width: 400px;
 }
 
 #PosterFront{
-	width: 600px;
+	width: 400px;
 	margin: auto;
 }
 #PosterBack{
-	width: 600px;
+	width: 400px;
 	margin: auto;
 }
 
 #busmockup{
-	width: 630px;
+	width: 400px;
 	margin: auto;
 }
 
 #scroll-container3{
-	width: 580px;
+	width: 400px;
 }
 
 #mockup1{
-	width: 600px;
-	height: 400px;
+	width: 400px;
+	height: 300px;
 }
 #mockup2{
-	width: 600px;
-	height: 400px;
+	width: 400px;
+	height: 300px;
 }
 #mockup4{
-	width: 600px;
-	height: 400px;
+	width: 400px;
+	height: 300px;
 }
 #mockup5{
-	width: 600px;
-	height: 400px;
+	width: 400px;
+	height: 300px;
 }
 
 #Pro3{
 	font-family: sans-serif;
 	color: white;
-	font-size: 50pt;
+	font-size: 20pt;
 	padding: 10px;
-	width: 650px;
+	width: 400px;
 	font-weight: bold;
 	margin: auto;
 }
 #Merchbio{
 	font-family: sans-serif;
 	color: white;
-	font-size: 25pt;
+	font-size: 15pt;
 	padding: 10px;
-	width: 650px;
+	width: 400px;
 	margin: auto;
 }
 #merchr1{
-	width: 650px;
+	width: 400px;
 }
 #merchr2{
-	width: 650px;
+	width: 400px;
 }
 #merchr3{
-	width: 650px;
+	width: 400px;
 }
 #merchr4{
-	width: 650px;
+	width: 400px;
 }
 #merch1{
-	width: 650px;
+	width: 400px;
 }
 #merch2{
-	width: 650px;
+	width: 400px;
 }
 #merch3{
-	width: 650px;
+	width: 400px;
 }
 #merch4{
-	width: 650px;
+	width: 400px;
 }
 #merch5{
-	width: 650px;
+	width: 400px;
 }
 
 
 #GGFinal1{
-	width: 650px;
+	width: 400px;
 }
 #GGFinal2{
-	width: 650px;
+	width: 400px;
 }
 #GGFinal3{
-	width: 650px;
+	width: 400px;
 }
 #GGFinal4{
-	width: 650px;
+	width: 400px;
 }
 #GGFinal5{
-	width: 650px;
+	width: 400px;
 }
 #GGFinal6{
-	width: 650px;
+	width: 400px;
 }
 #GGFinal7{
-	width: 650px;
+	width: 400px;
 }
 #GGFinal8{
-	width: 650px;
+	width: 400px;
 }
 #GGFinal9{
-	width: 650px;
+	width: 400px;
 }
 #GGFinal10{
-	width: 650px;
+	width: 400px;
 }
 #GGFinal11{
-	width: 650px;
+	width: 400px;
 }
 #GGFinal12{
-	width: 650px;
+	width: 400px;
 }
 #GGFinal13{
-	width: 650px;
+	width: 400px;
 }
 #GGFinal14{
-	width: 650px;
+	width: 400px;
 }
 #GGFinal15{
-	width: 650px;
+	width: 400px;
 }
 #GGFinal16{
-	width: 650px;
+	width: 400px;
 }
 #GGFinal17{
-	width: 650px;
+	width: 400px;
 }
 #GGFinal18{
-	width: 650px;
+	width: 400px;
 }
 #GGFinal19{
-	width: 650px;
+	width: 400px;
 }
 #GGFinal20{
-	width: 650px;
+	width: 400px;
 }
 #GGFinal21{
-	width: 650px;
+	width: 400px;
 }
 #GGFinal22{
-	width: 650px;
+	width: 400px;
 }
 #GGFinal23{
-	width: 650px;
+	width: 400px;
 }
 #GGFinal24{
-	width: 650px;
+	width: 400px;
 }
 #GGFinal25{
-	width: 650px;
+	width: 400px;
 }
 #GGFinal26{
-	width: 650px;
+	width: 400px;
 }
 #GGFinal27{
-	width: 650px;
+	width: 400px;
 }
 #GGFinal28{
-	width: 650px;
+	width: 400px;
 }
 #GGFinal29{
-	width: 650px;
+	width: 400px;
 }
 #GGFinal30{
-	width: 650px;
+	width: 400px;
 }
 
 #Pro4{
 	font-family: sans-serif;
 	color: white;
-	font-size: 50pt;
+	font-size: 20pt;
 	padding: 10px;
-	width: 650px;
+	width: 400px;
 	font-weight: bold;
 	margin: auto;
 }
 #vidbio{
 	font-family: sans-serif;
 	color: white;
-	font-size: 25pt;
+	font-size: 15pt;
 	padding: 10px;
-	width: 650px;
+	width: 400px;
 	margin: auto;
 }
 #Mnemonic{
-	width: 650px;
+	width: 400px;
 	margin: auto;
 }
 #Stream{
-	width: 650px;
+	width: 400px;
 	margin: auto;
 }
