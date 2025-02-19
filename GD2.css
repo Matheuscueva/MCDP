@@ -7,9 +7,9 @@ body{
 	font-family: sans-serif;
 	color: black;
 	background: white;
-	font-size: 50pt;
+	font-size: 40pt;
 	font-weight: bold;
-	padding: 30px;
+	padding: 20px;
 	margin: auto;
 }
 
@@ -17,7 +17,7 @@ body{
 	padding: 10px;
 	display: grid;
 	gap: 3rem;
-	grid-template-columns: 1fr 1fr 1fr;
+	grid-template-columns: 1fr;
 }
 
 #bio{
@@ -27,7 +27,7 @@ body{
 	font-size: 20pt;
 	font-weight: bold;
 	padding: 10px;
-	width: 300px;
+	width: 350px;
 	margin-top: 0px;
 }
 
@@ -37,7 +37,7 @@ body{
 	color: white;
 	font-size: 15pt;
 	padding: 10px;
-	width: 300px;
+	width: 350px;
 	margin-top: 0px;
 }
 
@@ -45,8 +45,8 @@ body{
 	cursor: e-resize;
 	overflow: auto;
 	white-space: nowrap;
-	padding: 10px;
-	width: 300px;
+	padding: 5px;
+	width: 350px;
 	background-color:black;
 	opacity: 0.3;
 }
@@ -55,31 +55,31 @@ body{
 }
 
 #FC1{
-	width: 300px;
+	width: 350px;
 }
 #FC2{
-	width: 300px;
+	width: 350px;
 }
 #FC3{
-	width: 300px;
+	width: 350px;
 }
 #FC4{
-	width: 300px;
+	width: 350px;
 }
 #FC5{
-	width: 300px;
+	width: 350px;
 }
 #FC6{
-	width: 300px;
+	width: 350px;
 }
 #FC7{
-	width: 300px;
+	width: 350px;
 }
 #FC8{
-	width: 300px;
+	width: 350px;
 }
 #FC9{
-	width: 300px;
+	width: 350px;
 }
 
 #Pro2{
@@ -88,13 +88,13 @@ body{
 	color: white;
 	font-size: 20pt;
 	font-weight: bold;
-	padding: 10px;
-	width: 300px;
+	padding: 5px;
+	width: 350px;
 	margin-top: 0px;
 }
 
 #IM{
-	width: 300px;
+	width: 350px;
 	opacity: 0.3;
 }
 #IM:hover{
@@ -106,8 +106,8 @@ body{
 	font-family: sans-serif;
 	color: white;
 	font-size: 15pt;
-	padding: 10px;
-	width: 300px;
+	padding: 5px;
+	width: 350px;
 	margin-top: 0px;
 }
 
@@ -117,25 +117,25 @@ body{
 	color: white;
 	font-size: 20pt;
 	font-weight: bold;
-	padding: 10px;
-	width: 300px;
+	padding: 5px;
+	width: 350px;
 	margin-top: 0px;
 }
 
 #BC1{
-	width: 300px;
+	width: 350px;
 }
 #BC2{
-	width: 300px;
+	width: 350px;
 }
 #BC3{
-	width: 300px;
+	width: 350px;
 }
 #BC4{
-	width: 300px;
+	width: 350px;
 }
 #BC5{
-	width: 300px;
+	width: 350px;
 }
 #BC6{
 	width: 300px;
@@ -150,22 +150,22 @@ body{
 	width: 300px;
 }
 #BC10{
-	width: 300px;
+	width: 350px;
 }
 #BC11{
-	width: 300px;
+	width: 350px;
 }
 #BC12{
-	width: 300px;
+	width: 350px;
 }
 #BC13{
-	width: 300px;
+	width: 350px;
 }
 #BC14{
-	width: 300px;
+	width: 350px;
 }
 #BC15{
-	width: 300px;
+	width: 350px;
 }
 
 #BookCover2{
@@ -173,8 +173,8 @@ body{
 	font-family: sans-serif;
 	color: white;
 	font-size: 15pt;
-	padding: 10px;
-	width: 300px;
+	padding: 5px;
+	width: 350px;
 	margin-top: 0px;
 }
 
@@ -184,28 +184,28 @@ body{
 	color: white;
 	font-size: 20pt;
 	font-weight: bold;
-	padding: 10px;
-	width: 300px;
+	padding: 4px;
+	width: 350px;
 	margin-top: 0px;
 }
 
 #Currency10F{
-	width: 300px;
+	width: 350px;
 }
 #Currency10B{
-	width: 300px;
+	width: 350px;
 }
 #Currency20F{
-	width: 300px;
+	width: 350px;
 }
 #Currency20B{
-	width: 300px;
+	width: 350px;
 }
 #Currency50F{
-	width: 300px;
+	width: 350px;
 }
 #Currency50B{
-	width: 300px;
+	width: 350px;
 }
 
 #CRC{
@@ -213,7 +213,7 @@ body{
 	font-family: sans-serif;
 	color: white;
 	font-size: 15pt;
-	padding: 10px;
-	width: 300px;
+	padding: 5px;
+	width: 350px;
 	margin-top: 0px;
 }
