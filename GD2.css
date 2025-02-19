@@ -7,14 +7,14 @@ body{
 	font-family: sans-serif;
 	color: black;
 	background: white;
-	font-size: 150pt;
+	font-size: 50pt;
 	font-weight: bold;
-	padding: 40px;
+	padding: 30px;
 	margin: auto;
 }
 
 #grid{
-	padding: 5px;
+	padding: 10px;
 	display: grid;
 	gap: 2rem;
 	grid-template-columns: 1fr 1fr 1fr;
@@ -24,10 +24,10 @@ body{
 	text-align: left;
 	font-family: sans-serif;
 	color: white;
-	font-size: 50pt;
+	font-size: 20pt;
 	font-weight: bold;
 	padding: 10px;
-	max-width: 500px;
+	width: 300px;
 	margin-top: 0px;
 }
 
@@ -35,9 +35,9 @@ body{
 	text-align: left;
 	font-family: sans-serif;
 	color: white;
-	font-size: 20pt;
+	font-size: 15pt;
 	padding: 10px;
-	max-width: 500px;
+	width: 300px;
 	margin-top: 0px;
 }
 
@@ -45,8 +45,8 @@ body{
 	cursor: e-resize;
 	overflow: auto;
 	white-space: nowrap;
-	padding: 20px;
-	width: 650px;
+	padding: 10px;
+	width: 300px;
 	background-color:black;
 	opacity: 0.3;
 }
@@ -55,46 +55,46 @@ body{
 }
 
 #FC1{
-	width: 650px;
+	width: 300px;
 }
 #FC2{
-	width: 650px;
+	width: 300px;
 }
 #FC3{
-	width: 650px;
+	width: 300px;
 }
 #FC4{
-	width: 650px;
+	width: 300px;
 }
 #FC5{
-	width: 650px;
+	width: 300px;
 }
 #FC6{
-	width: 650px;
+	width: 300px;
 }
 #FC7{
-	width: 650px;
+	width: 300px;
 }
 #FC8{
-	width: 650px;
+	width: 300px;
 }
 #FC9{
-	width: 650px;
+	width: 300px;
 }
 
 #Pro2{
 	text-align:left;
 	font-family: sans-serif;
 	color: white;
-	font-size: 50pt;
+	font-size: 20pt;
 	font-weight: bold;
 	padding: 10px;
-	max-width: 500px;
+	width: 300px;
 	margin-top: 0px;
 }
 
 #IM{
-	width: 650px;
+	width: 300px;
 	margin: auto;
 	opacity: 0.3;
 }
@@ -106,9 +106,9 @@ body{
 	text-align: left;
 	font-family: sans-serif;
 	color: white;
-	font-size: 20pt;
+	font-size: 15pt;
 	padding: 10px;
-	max-width: 500px;
+	width: 300px;
 	margin-top: 0px;
 }
 
@@ -116,66 +116,66 @@ body{
 	text-align: left;
 	font-family: sans-serif;
 	color: white;
-	font-size: 50pt;
+	font-size: 20pt;
 	font-weight: bold;
 	padding: 10px;
-	max-width: 500px;
+	width: 300px;
 	margin-top: 0px;
 }
 
 #BC1{
-	width: 650px;
+	width: 300px;
 }
 #BC2{
-	width: 650px;
+	width: 3000px;
 }
 #BC3{
-	width: 650px;
+	width: 300px;
 }
 #BC4{
-	width: 650px;
+	width: 300px;
 }
 #BC5{
-	width: 650px;
+	width: 300px;
 }
 #BC6{
-	width: 650px;
+	width: 300px;
 }
 #BC7{
-	width: 650px;
+	width: 3000px;
 }
 #BC8{
-	width: 650px;
+	width: 300px;
 }
 #BC9{
-	width: 650px;
+	width: 300px;
 }
 #BC10{
-	width: 650px;
+	width: 300px;
 }
 #BC11{
-	width: 650px;
+	width: 300px;
 }
 #BC12{
-	width: 650px;
+	width: 300px;
 }
 #BC13{
-	width: 650px;
+	width: 3000px;
 }
 #BC14{
-	width: 650px;
+	width: 300px;
 }
 #BC15{
-	width: 650px;
+	width: 300px;
 }
 
 #BookCover2{
 	text-align: left;
 	font-family: sans-serif;
 	color: white;
-	font-size: 20pt;
+	font-size: 15pt;
 	padding: 10px;
-	max-width: 500px;
+	width: 300px;
 	margin-top: 0px;
 }
 
@@ -183,38 +183,38 @@ body{
 	text-align: left;
 	font-family: sans-serif;
 	color: white;
-	font-size: 50pt;
+	font-size: 20pt;
 	font-weight: bold;
 	padding: 10px;
-	max-width: 500px;
+	width: 300px;
 	margin-top: 0px;
 }
 
 #Currency10F{
-	width: 650px;
+	width: 300px;
 }
 #Currency10B{
-	width: 650px;
+	width: 300px;
 }
 #Currency20F{
-	width: 650px;
+	width: 300px;
 }
 #Currency20B{
-	width: 650px;
+	width: 300px;
 }
 #Currency50F{
-	width: 650px;
+	width: 300px;
 }
 #Currency50B{
-	width: 650px;
+	width: 300px;
 }
 
 #CRC{
 	text-align: left;
 	font-family: sans-serif;
 	color: white;
-	font-size: 20pt;
+	font-size: 15pt;
 	padding: 10px;
-	max-width: 500px;
+	width: 300px;
 	margin-top: 0px;
 }
