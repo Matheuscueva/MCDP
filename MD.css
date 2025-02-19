@@ -6,25 +6,25 @@ body{
 	font-family: sans-serif;
 	color: black;
 	background: white;
-	font-size: 150pt;
+	font-size: 50pt;
 	font-weight: bold;
-	padding: 40px;
+	padding: 30px;
 	margin: auto;
 }
 
 #grid{
-	padding: 20px;
+	padding: 10px;
 	display: grid;
-	gap: 3rem;
+	gap: 5rem;
 	grid-template-columns: 1fr;
 }
 
 #bio{
 	font-family: sans-serif;
 	color: white;
-	font-size: 25pt;
-	padding: 20px;
-	width: 650px;
+	font-size: 15pt;
+	padding: 10px;
+	width: 400px;
 	margin: auto;
 	text-align: left;
 }
@@ -32,24 +32,24 @@ body{
 #Pro1{
 	font-family: sans-serif;
 	color: white;
-	font-size: 50pt;
+	font-size: 20pt;
 	font-weight: bold;
 	padding: 10px;
-	width: 650px;
+	width: 400px;
 	margin: auto;
 }
 
 #Pro1bio{
 	font-family: sans-serif;
 	color: white;
-	font-size: 25pt;
+	font-size: 15pt;
 	padding: 10px;
-	width: 650px;
+	width: 400px;
 	margin: auto;
 }
 
 #NewtonsCradle{
-	width: 650px;
+	width: 400px;
 	margin: auto;
 	opacity: 0.3;
 }
@@ -57,7 +57,7 @@ body{
 	opacity: 1.0;
 }
 #Triangles{
-	width: 650px;
+	width: 400px;
 	margin: auto;
 	opacity: 0.3;
 }
@@ -65,7 +65,7 @@ body{
 	opacity: 1.0;
 }
 #RedvsBlue{
-	width: 650px;
+	width: 400px;
 	margin: auto;
 	opacity: 0.3;
 }
@@ -75,24 +75,24 @@ body{
 #Pro2{
 	font-family: sans-serif;
 	color: white;
-	font-size: 50pt;
+	font-size: 20pt;
 	font-weight: bold;
 	padding: 10px;
-	width: 650px;
+	width: 400px;
 	margin: auto;
 }
 
 #Pro2bio{
 	font-family: sans-serif;
 	color: white;
-	font-size: 25pt;
+	font-size: 15pt;
 	padding: 10px;
-	width: 650px;
+	width: 400px;
 	margin: auto;
 }
 
 #Vinland{
-	width: 650px;
+	width: 400px;
 	margin: auto;
 	opacity: 0.3;
 }
@@ -100,7 +100,7 @@ body{
 	opacity: 1.0;
 }
 #Oscar{
-	width: 650px;
+	width: 400px;
 	margin: auto;
 	opacity: 0.3;
 }
@@ -111,23 +111,23 @@ body{
 #Pro3{
 	font-family: sans-serif;
 	color: white;
-	font-size: 50pt;
+	font-size: 20pt;
 	font-weight: bold;
 	padding: 10px;
-	width: 650px;
+	width: 400px;
 	margin: auto;
 }
 #Pro3bio{
 	font-family: sans-serif;
 	color: white;
-	font-size: 25pt;
+	font-size: 15pt;
 	padding: 10px;
-	width: 650px;
+	width: 400px;
 	margin: auto;
 }
 
 #NJDevils{
-	width: 650px;
+	width: 400px;
 	margin: auto;
 	opacity: 0.3;
 }
