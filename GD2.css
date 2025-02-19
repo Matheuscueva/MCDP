@@ -29,6 +29,7 @@ body{
 	padding: 10px;
 	width: 350px;
 	margin-top: 0px;
+	margin: auto;
 }
 
 #bio2{
@@ -39,6 +40,7 @@ body{
 	padding: 10px;
 	width: 350px;
 	margin-top: 0px;
+	margin: auto;
 }
 
 .scroll-container{
@@ -49,6 +51,7 @@ body{
 	width: 350px;
 	background-color:black;
 	opacity: 0.3;
+	margin: auto;
 }
 .scroll-container:hover{
 	opacity: 1.0;
@@ -91,11 +94,13 @@ body{
 	padding: 5px;
 	width: 350px;
 	margin-top: 0px;
+	margin: auto;
 }
 
 #IM{
 	width: 350px;
 	opacity: 0.3;
+	margin: auto;
 }
 #IM:hover{
 	opacity: 1.0;
@@ -109,6 +114,7 @@ body{
 	padding: 5px;
 	width: 350px;
 	margin-top: 0px;
+	margin: auto;
 }
 
 #BookCover1{
@@ -120,6 +126,7 @@ body{
 	padding: 5px;
 	width: 350px;
 	margin-top: 0px;
+	margin: auto;
 }
 
 #BC1{
@@ -176,6 +183,7 @@ body{
 	padding: 5px;
 	width: 350px;
 	margin-top: 0px;
+	margin: auto;
 }
 
 #Pro4{
@@ -187,6 +195,7 @@ body{
 	padding: 4px;
 	width: 350px;
 	margin-top: 0px;
+	margin: auto;
 }
 
 #Currency10F{
@@ -216,4 +225,5 @@ body{
 	padding: 5px;
 	width: 350px;
 	margin-top: 0px;
+	margin: auto;
 }
