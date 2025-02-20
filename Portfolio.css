@@ -31,13 +31,12 @@ body{
 }
 
 #contact{
-	text-align: center;
 	font-family: sans-serif;
 	font-weight: bold;
 	color: white;
 	font-size: 50pt;
 	padding: 30px;
-	width: 350px;
+	text-align: center;
 	margin: auto
 }
 
