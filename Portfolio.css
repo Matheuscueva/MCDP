@@ -47,6 +47,7 @@ body{
 	font-size: 20pt;
 	padding: 5px;
 	font-weight: bold;
+	width: 350px;
 }
 
 #GD2{
@@ -56,6 +57,7 @@ body{
 	font-size: 20pt;
 	padding: 5px;
 	font-weight: bold;
+	width: 350px;
 }
 
 #GD3{
@@ -65,6 +67,7 @@ body{
 	font-size: 20pt;
 	padding: 5px;
 	font-weight: bold;
+	width: 350px;
 }
 
 #MD{
@@ -74,6 +77,7 @@ body{
 	font-size: 20pt;
 	padding: 5px;
 	font-weight: bold;
+	width: 350px;
 }
 
 #Interactive{
@@ -82,5 +86,6 @@ body{
 	color: white;
 	font-size: 20pt;
 	padding: 5px;
-	font-weight: bold; 
+	font-weight: bold;
+	width: 350px;
 }
