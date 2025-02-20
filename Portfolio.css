@@ -29,6 +29,7 @@ body{
 	font-size: 20pt;
 	padding: 5px;
 	width: 350px;
+	height: 350px;
 	margin: auto;
 }
 
@@ -36,7 +37,7 @@ body{
 	text-align: center;
 	font-family: sans-serif;
 	color: white;
-	font-size: 25pt;
+	font-size: 24pt;
 	font-weight: bold;
 	padding: 20px;
 	margin: auto;
