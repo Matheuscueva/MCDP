@@ -19,6 +19,7 @@ body{
 	font-family: sans-serif;
 	font-size: 60pt;
 	font-weight: bold;
+	margin: auto;
 }
 
 #bio{
@@ -28,6 +29,7 @@ body{
 	font-size: 20pt;
 	padding: 5px;
 	width: 350px
+	margin: auto;
 }
 
 #contact{
@@ -48,6 +50,7 @@ body{
 	padding: 5px;
 	font-weight: bold;
 	width: 350px;
+	margin: auto;
 }
 
 #GD2{
@@ -58,6 +61,7 @@ body{
 	padding: 5px;
 	font-weight: bold;
 	width: 350px;
+	margin: auto;
 }
 
 #GD3{
@@ -68,6 +72,7 @@ body{
 	padding: 5px;
 	font-weight: bold;
 	width: 350px;
+	margin: auto;
 }
 
 #MD{
@@ -78,6 +83,7 @@ body{
 	padding: 5px;
 	font-weight: bold;
 	width: 350px;
+	margin: auto;
 }
 
 #Interactive{
@@ -88,4 +94,5 @@ body{
 	padding: 5px;
 	font-weight: bold;
 	width: 350px;
+	margin: auto;
 }
