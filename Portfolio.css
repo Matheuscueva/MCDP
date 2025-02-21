@@ -35,12 +35,12 @@ body{
 }
 
 #contact{
-	text-align: center;
+	text-align: left;
 	font-family: sans-serif;
 	color: white;
 	font-size: 24pt;
 	font-weight: bold;
-	padding: 20px;
+	padding: 5px;
 	margin: auto;
 	width: 350px;
 }
