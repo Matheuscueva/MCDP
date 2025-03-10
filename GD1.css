@@ -63,3 +63,11 @@ body{
 #R:hover{
 	opacity: 1.0;
 }
+
+#MC{
+	width: 350px;
+	height: 225px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
