@@ -227,3 +227,11 @@ body{
 	margin-top: 0px;
 	margin: auto;
 }
+
+#MC{
+	width: 350px;
+	height: 225px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
