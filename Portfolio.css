@@ -100,7 +100,7 @@ body{
 }
 
 #MC{
-	scale: 0.5;
+	transform: scale (0.5);
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
