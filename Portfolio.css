@@ -100,7 +100,8 @@ body{
 }
 
 #MC{
-	width: 350px;
-	height: 500px;
+	width: 500px;
+	height: 350px;
 	background: white;
+	margin: auto;
 }
